@@ -1,4 +1,4 @@
-# Bloc-n-4-Deep-learning
+# Bloc-n-4-Analyse prédictive de données non-structurées par l'intelligence artificielle
 Analyse prédictive de données non-structurées par l'intelligence artificielle. 
 
 Projet: AT&T spam detector
